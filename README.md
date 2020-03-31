@@ -10,6 +10,6 @@ The company has noticed that only a few of these leads get converted into actual
 
 In order to make the process more efficient, X Education wants a way to identify leads which have the most potential, utilizing the given data. This will be done by creating a binary logistics regression. This will predict which class a unit will fall into when there are only two class options - Converted or Not Converted.
 
-The full dataset can be found on Kaggle at this link.
+The full dataset can be found on Kaggle at https://www.kaggle.com/ashydv/leads-dataset.
 
 More information on the column values can be found in the data folder under Leads Data Dictionary.
