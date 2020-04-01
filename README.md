@@ -1,4 +1,4 @@
-# Leads-Dataset
+# Logistics-Regression-Model-for-Marketing-Leads
 
 Binary Logistics Regression for Sales Leads Dataset
 
