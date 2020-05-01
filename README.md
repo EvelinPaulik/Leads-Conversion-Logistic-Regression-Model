@@ -14,14 +14,14 @@ The Marketing Leads case data includes the following content.
 | | Description |
 | :---: | --- |
 | **Sources** | The data source is taken from X Education leads with over 9000 data points. For a full description of the dataset sources see [Leads Dataset](https://www.kaggle.com/ashydv/leads-dataset). |
-| **Measures** | Cases, Deaths, and Recoveries. |
-| **Coverage and granularity** | This dataset consists of various attributes such as Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not. |
+| **Measures** | Converted or Not Converted. |
+| **Coverage and Granularity** | This dataset consists of various attributes such as Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not. |
 | **Released** | 2020-04-10 |
 
 # Further Information
 ___
 ### Support
-For additional support please send a directl message.
+For additional support please send as a direct message.
 
 ### Feedback
 Please send feedback as a direct message.
@@ -50,11 +50,11 @@ ___
 | What is your current occupation                  | Indicates whether the customer is a student, umemployed or employed.                                                                                                              |
 | What matters most to you in choosing this course | An option selected by the customer indicating what is their main motto behind doing this course.                                                                                  |
 | Search                                           | Indicating whether the customer had seen the ad in any of the listed items.                                                                                                       |
-| Magazine                                         |                                                                                                                                                                                   |
-| Newspaper Article                                |                                                                                                                                                                                   |
-| X Education Forums                               |                                                                                                                                                                                   |
-| Newspaper                                        |                                                                                                                                                                                   |
-| Digital Advertisement                            |                                                                                                                                                                                   |
+| Magazine                                         | Indicating whether the customer had seen the ad in any of the listed items.                                                                                                                                                                                  |
+| Newspaper Article                                | Indicating whether the customer had seen the ad in any of the listed items.                                                                                                                                                                                  |
+| X Education Forums                               | Indicating whether the customer had seen the ad in any of the listed items.                                                                                                                                                                                  |
+| Newspaper                                        | Indicating whether the customer had seen the ad in any of the listed items.                                                                                                                                                                                  |
+| Digital Advertisement                            | Indicating whether the customer had seen the ad in any of the listed items.                                                                                                                                                                                  |
 | Through Recommendations                          | Indicates whether the customer came in through recommendations.                                                                                                                   |
 | Receive More Updates About Our Courses           | Indicates whether the customer chose to receive more updates about the courses.                                                                                                   |
 | Tags                                             | Tags assigned to customers indicating the current status of the lead.                                                                                                             |
@@ -63,10 +63,10 @@ ___
 | Get updates on DM Content                        | Indicates whether the customer wants updates on the DM Content.                                                                                                                   |
 | Lead Profile                                     | A lead level assigned to each customer based on their profile.                                                                                                                    |
 | City                                             | The city of the customer.                                                                                                                                                         |
-| Asymmetrique Activity Index                      | An index and score assigned to each customer based on their activity and their profile                                                                                            |
-| Asymmetrique Profile Index                       |                                                                                                                                                                                   |
-| Asymmetrique Activity Score                      |                                                                                                                                                                                   |
-| Asymmetrique Profile Score                       |                                                                                                                                                                                   |
+| Asymmetrique Activity Index                      | An index and score assigned to each customer based on their activity and their profile.                                                                                            |
+| Asymmetrique Profile Index                       | An index and score assigned to each customer based on their activity and their profile.                                                                                                                                                                                  |
+| Asymmetrique Activity Score                      | An index and score assigned to each customer based on their activity and their profile.                                                                                                                                                                                  |
+| Asymmetrique Profile Score                       | An index and score assigned to each customer based on their activity and their profile.                                                                                                                                                                                  |
 | I agree to pay the amount through cheque         | Indicates whether the customer has agreed to pay the amount through cheque or not.                                                                                                |
 | a free copy of Mastering The Interview           | Indicates whether the customer wants a free copy of 'Mastering the Interview' or not.                                                                                             |
 | Last Notable Activity                            | The last notable acitivity performed by the student.                                                                                                                              |
