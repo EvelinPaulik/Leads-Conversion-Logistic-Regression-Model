@@ -1,11 +1,14 @@
 # Leads Conversion - Logistics Regression Model Case
 ___
 
-This Leads Dataset is taken from the marketing dataset of X Education, an online education company that sells courses to industry professionals.nX Education has marketing for their courses online, across several websites and different search engines such as Google, Facebook, and organic search. Users who land on the website can browse through the courses, watch videos, or fill out a form with their information. Thus when the form is filled out, these people become a potential client or customer but one that hasn't yet been qualified as a prospect. They are then contacted by the sales team via email or phone, and this process is recorded in the data.
+In order to help eCommerce organizations respond and identify the most potential leads, known as the 'hot leads', which convert to profitable customers, this regression model analyzes customer actions and uses data to determine which class each unit will fall into - Converted or Not Converted. This data is based from X Education's marketing dataset, which stores information on over 9000 data points and track their actions throughout the sales cycle. The metrics tracked which determine lead potential include: Total Time Spent on Website, Total Visits, Source of Lead, Page Views, and Email & Call Preference. 
 
-The company has noticed that only a few of these leads get converted into actual customers, while most do not. Typically, less than 1/3 of these prospects become customers. In order to make the process more efficient, X Education wants a way to identify leads which have the most potential, utilizing the given data. This will be done by creating a binary logistics regression. This will predict which class a unit will fall into when there are only two class options - Converted or Not Converted.
+By utilizing this logictics regression model, the company and sales team will be able to focus more marketing spend on those 'hot leads' and increase their return on investment ratio.
 
 For more information on the data sources used, see the [Leads Dataset](https://www.kaggle.com/ashydv/leads-dataset). More information on the data dictionary can be found in the data dictionary section below and under the Leads Data Dictionary folder.
+
+## Company Background
+This [Leads Dataset](https://www.kaggle.com/ashydv/leads-dataset) is taken from the marketing data of X Education - an online education company that sells courses to industry professionals. X Education provides marketing for their online courses across several websites and search engines. Users who land on the website can browse through the courses, watch videos, or fill out a form with their information, therefore becoming leads. Once a lead is identified, they are then contacted by the sales team via email or phone. However, the company has recognized that only 1/3 of leads are converted into customers, and marketing is distributed evenly across all leads. In order to make the process more efficient, X Education wants a way to identify leads which have the most potential, utilizing the given data. This will be done by creating a logistics regression model to analyze customer actions and determine if they will convert or not convert.
 
 ## Description
 ___
@@ -18,7 +21,7 @@ The Marketing Leads case data includes the following content.
 | **Coverage and Granularity** | This dataset consists of various attributes such as Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not. |
 | **Released** | 2020-04-10 |
 
-# Further Information
+## Further Information
 ___
 ### Support
 For additional support please send as a direct message.
