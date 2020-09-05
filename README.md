@@ -1,4 +1,4 @@
-# Leads Conversion - Logistics Regression Model Case
+# Leads Conversion - Logistic Regression Model Case
 ___
 
 In order to help eCommerce organizations respond and identify the most potential leads, known as the 'hot leads', which convert to profitable customers, this regression model analyzes customer actions and uses data to determine which class each unit will fall into - Converted or Not Converted. This data is based from X Education's marketing dataset, which stores information on over 9000 data points and track their actions throughout the sales cycle. The metrics tracked which determine lead potential include: Total Time Spent on Website, Total Visits, Source of Lead, Page Views, and Email & Call Preference. 
